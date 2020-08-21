@@ -6,7 +6,7 @@ This repository contains code for data pre-processing used in the BUT submission
 
 [Augmented training data](https://www.fit.vutbr.cz/~ikodym/autoimplant/augmented_set.zip)
 
-Our landmark annotations and the pre-trained landmark detection can be downloaded here:
+Our landmark annotations and the pre-trained landmark detection Torch model can be downloaded here:
 
 [Landmark annotations](https://www.fit.vutbr.cz/~ikodym/autoimplant/landmark_annotations.zip)
 
